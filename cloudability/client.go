@@ -15,8 +15,8 @@ import (
 )
 
 const (
-	apiV1URL = "https://app.cloudability.com/api/1"
-	apiV3URL = "https://api.cloudability.com/v3"
+	apiV1URL = "https://app-au.cloudability.com/api/1"
+	apiV3URL = "https://api-au.cloudability.com/v3"
 )
 
 // Client - Cloudability client.
