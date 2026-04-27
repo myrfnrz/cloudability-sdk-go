@@ -1,4 +1,4 @@
-# Cloudability SDK for Go
+# Cloudability SDK for Go AU
 
 ![build](https://github.com/skyscrapr/cloudability-sdk-go/workflows/build/badge.svg)
 [![Go Reference](https://pkg.go.dev/badge/github.com/skyscrapr/cloudability-sdk-go.svg)](https://pkg.go.dev/github.com/skyscrapr/cloudability-sdk-go)
